@@ -1,4 +1,4 @@
-# EverAfter – Product Hackathon Submission
+# Notion- The all in one Workspace - CaseStudy
 
 **👥 Team Role:** Product Manager  
 **🏆 Hackathon:** Notion CaseStudy  
