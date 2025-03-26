@@ -39,8 +39,7 @@ Notion’s journey proves that a truly adaptable, user-centric platform can make
 ---
 
 ## 🧑‍🎨 CaseStudy Link 
-👉 Click here to view the CaseStudy (https://www.canva.com/design/DAGcaFUiAI4/0tKiaOj15BH2NLWkklcRTw/view?utm_content=DAGcaFUiAI4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h172023f336)
-
+👉 Click here to view the CaseStudy (https://tinyurl.com/3kxr58sy)
 
 ---
 
