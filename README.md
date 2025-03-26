@@ -58,12 +58,6 @@ Notion’s journey proves that a truly adaptable, user-centric platform can make
 - Canva (Pitch)
 - Notion (Planning)
 
----
-
-## 🙌 Contributors
-- **You (PM & Designer)**
-- [@dev1](https://github.com/dev1) – Frontend
-- [@dev2](https://github.com/dev2) – Backend
 
 ---
 
