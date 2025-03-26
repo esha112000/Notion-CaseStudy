@@ -1,7 +1,7 @@
 # Notion- The all in one Workspace - CaseStudy
 
 **👥 Team Role:** Product Manager  
-**🏆 Hackathon:** Notion CaseStudy  
+**🧾 Case Study:** Notion 
 **📅 Date:** 2025
 
 ---
@@ -40,14 +40,6 @@ Notion’s journey proves that a truly adaptable, user-centric platform can make
 
 ## 🧑‍🎨 CaseStudy Link 
 👉 Click here to view the CaseStudy (https://tinyurl.com/3kxr58sy)
-
----
-
-## 📄 Documentation  
-- [Product Requirements Document](docs/PRD.md)
-- [User Persona](docs/UserPersona.md)
-- [Roadmap](docs/Roadmap.md)
-- [Retrospective & Learnings](docs/Learnings.md)
 
 --
 
