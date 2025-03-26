@@ -12,7 +12,7 @@ This aligns with their vision of providing a flexible, customizable all-in-one w
 
 ---
 
-## 💡 Our Solution – EverAfter
+## 💡 Our Solution – NOTION
 
 We analyzed the growing need for an integrated, flexible, and user-friendly workspace that could adapt to various individual and team workflows.
 
